@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HacklabAssignment-1/static/css/main.9bc88de0.css",
+    "main.js": "/HacklabAssignment-1/static/js/main.1d523ab1.js",
+    "static/js/787.1a0d94bf.chunk.js": "/HacklabAssignment-1/static/js/787.1a0d94bf.chunk.js",
+    "index.html": "/HacklabAssignment-1/index.html",
+    "main.9bc88de0.css.map": "/HacklabAssignment-1/static/css/main.9bc88de0.css.map",
+    "main.1d523ab1.js.map": "/HacklabAssignment-1/static/js/main.1d523ab1.js.map",
+    "787.1a0d94bf.chunk.js.map": "/HacklabAssignment-1/static/js/787.1a0d94bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bc88de0.css",
+    "static/js/main.1d523ab1.js"
+  ]
+}
